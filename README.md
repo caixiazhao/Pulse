@@ -1,4 +1,3 @@
-# Pulse
 HP Vertica Pulse
 =====
 Copyright 2015 - HP Vertica - Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. HP shall not be liable for technical or editorial errors or omissions contained herein.

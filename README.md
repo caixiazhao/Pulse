@@ -18,8 +18,11 @@ Overview
 
 HP Vertica Pulse provides a suite of functions that allow you to analyze and extract the sentiment from English and Spanish language text directly from your HP Vertica database.
 
+This example uses Tableau Desktop for data visualization.
+
 Requirements
 -------------
 
 * HP Vertica 7.2.x
 * HP Vertica Place 7.2.x
+* Haven Social Media Connector Package

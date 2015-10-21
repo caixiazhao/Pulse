@@ -6,12 +6,12 @@ from twisted.internet import reactor
 
 timeout = 1.0 # Every second
 
-def doWork():
+def tweetUpdate():
     import subprocess
     subprocess.call(['/home/dbadmin/tweet_update.sh'])
     pass
 
-l = task.LoopingCall(doWork)
-l.start(timeout) # call every sixty seconds
+l = task.LoopingCall(tweetUpdate)
+l.start(timeout) # Call every second
 
 reactor.run()

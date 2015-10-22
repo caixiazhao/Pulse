@@ -29,7 +29,7 @@ Requirements
 Building the Example
 --------------------
 
-1. Download and install HP Vertica 7.2.x and HP Pulse 7.2.x.
+1. Download and install HP Vertica 7.2.x and HP Pulse 7.2.x
 
     For detailed installation instructions see:
     * http://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
@@ -39,8 +39,8 @@ Building the Example
 
     * https://haven.hpwsportal.com/catalog.html#/Product/%7B%22productId%22%3A%221337%22%7D/Show
 
-3. Create a developer Twitter account at dev.twitter.com.
+3. Create a developer Twitter account at dev.twitter.com
 
-4. Download a trial version of Tableau Desktop at http://www.tableau.com/products/trial.
+4. Download a trial version of Tableau Desktop at http://www.tableau.com/products/trial
 
-5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example.
+5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example

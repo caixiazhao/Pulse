@@ -1,4 +1,5 @@
-# First install python twisted before running this script: sudo yum install python-twisted
+# First install python twisted before running this script: 
+# (Red Hat) sudo yum install python-twisted / (Ubuntu) sudo apt-get install python-twisted
 #!/usr/bin/python
 
 from twisted.internet import task

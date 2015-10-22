@@ -35,9 +35,9 @@ Building the Example
     * http://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
     * https://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/Pulse/InstallingPulseOverview.htm
 
-2. Download and install the Haven Social Media Connector Package:
+2. Download and install the Haven Social Media Connector Package (under ETL and Data Ingest):
 
-    * https://haven.hpwsportal.com/catalog.html#/Product/%7B%22productId%22%3A%221337%22%7D/Show
+    * https://haven.hpwsportal.com/catalog.html#/Home/Show
 
 3. Create a developer Twitter account at dev.twitter.com
 

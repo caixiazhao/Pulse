@@ -22,18 +22,18 @@ This example uses Tableau Desktop for data visualization.
 Requirements
 -------------
 
-* HP Vertica 7.2.x
-* HP Vertica Pulse 7.2.x
+* HP Vertica 7.1.x
+* HP Vertica Pulse 7.1.x
 * Haven Social Media Connector Package
 
 Building the Example
 --------------------
 
-1. Download and install HP Vertica 7.2.x and HP Vertica Pulse 7.2.x
+1. Download and install HP Vertica 7.1.x and HP Vertica Pulse 7.1.x
 
     For detailed installation instructions see:
-    * http://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
-    * https://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/Pulse/InstallingPulseOverview.htm
+    * http://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
+    * https://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/Pulse/InstallingPulseOverview.htm
 
 2. Download and install the Haven Social Media Connector Package (under ETL and Data Ingest) and the HP Vertica QuickStart for Tableau (under BI and Visualization) to get a pre-made HP Vertica Tableau template
 

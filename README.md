@@ -45,4 +45,4 @@ Building the Example
 
 5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example
 
-6. Output the data collected in your tweet_sentiment table to Tableau Desktop for analysis and visualization
+6. Using the template found in the HP Vertica QuickStart for Tableau, output the data collected in your tweet_sentiment table to Tableau Desktop for analysis and visualization

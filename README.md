@@ -44,3 +44,7 @@ Building the Example
 4. Download a trial version of Tableau Desktop at http://www.tableau.com/products/trial
 
 5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example
+
+6. Output the data collected in your tweet_sentiment table to Tableau Desktop for analysis and visualization
+
+    * Download and install the HP Vertica QuickStart for Tableau (under BI and Visualization) to get a pre-made HP Vertica       Tableau template

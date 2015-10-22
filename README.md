@@ -43,4 +43,4 @@ Building the Example
 
 4. Download a trial version of Tableau Desktop at http://www.tableau.com/products/trial 
 
-5. Follow the accompanying SQL, python, and other files to guide you through the example.
+5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example.

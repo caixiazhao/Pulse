@@ -23,13 +23,13 @@ Requirements
 -------------
 
 * HP Vertica 7.2.x
-* HP Vertica Place 7.2.x
+* HP Vertica Pulse 7.2.x
 * Haven Social Media Connector Package
 
 Building the Example
 --------------------
 
-1. Download and install HP Vertica 7.2.x and HP Pulse 7.2.x
+1. Download and install HP Vertica 7.2.x and HP Vertica Pulse 7.2.x
 
     For detailed installation instructions see:
     * http://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm

@@ -4,5 +4,3 @@
 # Next, go on to the execute.py script and install python twisted to run a scheduler for this bash script
 
 /opt/vertica/bin/vsql -U dbadmin -w password -d databasename -f /home/dbadmin/tweet_update.sql > tweet_update.log
-
-

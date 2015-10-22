@@ -35,7 +35,7 @@ Building the Example
     * http://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
     * https://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/Pulse/InstallingPulseOverview.htm
 
-2. Download and install the Haven Social Media Connector Package (under ETL and Data Ingest):
+2. Download and install the Haven Social Media Connector Package (under ETL and Data Ingest) and the HP Vertica QuickStart for Tableau from https://haven.hpwsportal.com/catalog.html#/Home/Show (under BI and Visualization) to get a pre-made HP Vertica Tableau template
 
     * https://haven.hpwsportal.com/catalog.html#/Home/Show
 
@@ -46,5 +46,3 @@ Building the Example
 5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example
 
 6. Output the data collected in your tweet_sentiment table to Tableau Desktop for analysis and visualization
-
-    * Download and install the HP Vertica QuickStart for Tableau (under BI and Visualization) to get a pre-made HP Vertica       Tableau template

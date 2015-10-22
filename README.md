@@ -39,7 +39,7 @@ Building the Example
 
     * https://haven.hpwsportal.com/catalog.html#/Home/Show
 
-3. Create a developer Twitter account at dev.twitter.com
+3. Create a developer Twitter account at dev.twitter.com and create a Twitter app for your data
 
 4. Download a trial version of Tableau Desktop at http://www.tableau.com/products/trial
 

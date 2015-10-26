@@ -22,18 +22,18 @@ This example uses Tableau Desktop for data visualization.
 Requirements
 -------------
 
-* HP Vertica 7.1.x
-* HP Vertica Pulse 7.1.x
+* HP Vertica 7.2.x
+* HP Vertica Pulse 7.2.x
 * Haven Social Media Connector Package
 
 Building the Example
 --------------------
 
-1. Download and install HP Vertica 7.1.x and HP Vertica Pulse 7.1.x
+1. Download and install HP Vertica 7.2.x and HP Vertica Pulse 7.2.x
 
     For detailed installation instructions see:
-    * http://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
-    * https://my.vertica.com/docs/7.1.x/HTML/index.htm#Authoring/Pulse/InstallingPulseOverview.htm
+    * http://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/InstallationGuide/Other/InstallationGuide.htm
+    * https://my.vertica.com/docs/7.2.x/HTML/index.htm#Authoring/Pulse/InstallingPulseOverview.htm
 
 2. Download and install the Haven Social Media Connector Package (under ETL and Data Ingest) and the HP Vertica QuickStart for Tableau (under BI and Visualization) to get a pre-made HP Vertica Tableau template
 
@@ -41,7 +41,7 @@ Building the Example
 
 3. Create a developer Twitter account at dev.twitter.com and create a Twitter app for your data
 
-4. Download a trial version of Tableau Desktop at http://www.tableau.com/products/trial
+4. Download a trial version of Tableau Desktop from http://www.tableau.com/products/trial
 
 5. Follow the accompanying SQL and python scripts as well as other files to guide you through the example
 
